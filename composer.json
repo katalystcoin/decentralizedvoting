@@ -1,0 +1,13 @@
+{
+    "name": "blackturtle/images",
+    "type": "project",
+    "authors": [
+        {
+            "name": "BlackTurtle",
+            "email": "info@blackturtle.eu"
+        }
+    ],
+    "require": {
+        "stephenhill/base58": "~1.0"
+    }
+}
